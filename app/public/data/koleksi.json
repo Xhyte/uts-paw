@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Unfinished Goodbye",
+    "kategori": "Novel",
+    "penulis": "Syahid Muhammad",
+    "tahun terbit": 2024,
+    "status": "Sedang dibaca"
+  },
+  {
+    "id": "2",
+    "judul": "Bumi",
+    "kategori": "Novel",
+    "penulis": "Tere Liye",
+    "tahun terbit": 2014,
+    "status": "Dimiliki"
+  },
+  {
+    "id": "3",
+    "judul": "Bulan",
+    "kategori": "Novel",
+    "penulis": "Tere Liye",
+    "tahun terbit": 2015,
+    "status": "Dimiliki"
+  },
+  {
+    "id": "4",
+    "judul": "The Alchemist",
+    "kategori": "Novel",
+    "penulis": "Paulo Coelho",
+    "tahun terbit": 1988,
+    "status": "Dimiliki"
+  },
+  {
+    "id": "5",
+    "judul": "Why? World War I & II Shook Up The World",
+    "kategori": "komik",
+    "penulis": "Grimnamu",
+    "tahun terbit": 2013,
+    "status": "Dimiliki"
+  },
+  {
+    "id": "6",
+    "judul": "Matahari",
+    "kategori": "Novel",
+    "penulis": "Tere Liye",
+    "tahun terbit": 2016,
+    "status": "Dimiliki"
+  },
+  {
+    "id": "7",
+    "judul": "RPAL (Rangkuman Pengetahuan Alam Lengkap)",
+    "kategori": "Pengetahuan",
+    "penulis": "Tim Redaksi Pustaka Baru Press",
+    "tahun terbit": 2015,
+    "status": "Dimiliki"
+  },
+  {
+    "id": "8",
+    "judul": "Pintar RPUL Global Indonesia & Dunia",
+    "kategori": "Pengetahuan",
+    "penulis": "Ahmad Purwanto, S.Pd",
+    "tahun terbit": 2016,
+    "status": "Dimiliki"
+  },
+  {
+    "id": "9",
+    "judul": "Daun Yang Jatuh Tak Pernah Membenci Angin",
+    "kategori": "Novel",
+    "penulis": "Tere Liye",
+    "tahun terbit": 2010,
+    "status": "Dimiliki"
+  },
+  {
+    "id": "10",
+    "judul": "Naruto",
+    "kategori": "Komik",
+    "penulis": "Masashi Kishimoto",
+    "tahun terbit": 1999,
+    "status": "Dimiliki"
   }
 ]
