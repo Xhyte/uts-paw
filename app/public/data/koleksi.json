@@ -4,7 +4,7 @@
     "judul": "Unfinished Goodbye",
     "kategori": "Novel",
     "penulis": "Syahid Muhammad",
-    "tahun terbit": 2024,
+    "tahunTerbit": 2024,
     "status": "Sedang dibaca"
   },
   {
@@ -12,7 +12,7 @@
     "judul": "Bumi",
     "kategori": "Novel",
     "penulis": "Tere Liye",
-    "tahun terbit": 2014,
+    "tahunTerbit": 2014,
     "status": "Dimiliki"
   },
   {
@@ -20,7 +20,7 @@
     "judul": "Bulan",
     "kategori": "Novel",
     "penulis": "Tere Liye",
-    "tahun terbit": 2015,
+    "tahunTerbit": 2015,
     "status": "Dimiliki"
   },
   {
@@ -28,7 +28,7 @@
     "judul": "The Alchemist",
     "kategori": "Novel",
     "penulis": "Paulo Coelho",
-    "tahun terbit": 1988,
+    "tahunTerbit": 1988,
     "status": "Dimiliki"
   },
   {
@@ -36,7 +36,7 @@
     "judul": "Why? World War I & II Shook Up The World",
     "kategori": "komik",
     "penulis": "Grimnamu",
-    "tahun terbit": 2013,
+    "tahunTerbit": 2013,
     "status": "Dimiliki"
   },
   {
@@ -44,7 +44,7 @@
     "judul": "Matahari",
     "kategori": "Novel",
     "penulis": "Tere Liye",
-    "tahun terbit": 2016,
+    "tahunTerbit": 2016,
     "status": "Dimiliki"
   },
   {
@@ -52,7 +52,7 @@
     "judul": "RPAL (Rangkuman Pengetahuan Alam Lengkap)",
     "kategori": "Pengetahuan",
     "penulis": "Tim Redaksi Pustaka Baru Press",
-    "tahun terbit": 2015,
+    "tahunTerbit": 2015,
     "status": "Dimiliki"
   },
   {
@@ -60,7 +60,7 @@
     "judul": "Pintar RPUL Global Indonesia & Dunia",
     "kategori": "Pengetahuan",
     "penulis": "Ahmad Purwanto, S.Pd",
-    "tahun terbit": 2016,
+    "tahunTerbit": 2016,
     "status": "Dimiliki"
   },
   {
@@ -68,7 +68,7 @@
     "judul": "Daun Yang Jatuh Tak Pernah Membenci Angin",
     "kategori": "Novel",
     "penulis": "Tere Liye",
-    "tahun terbit": 2010,
+    "tahunTerbit": 2010,
     "status": "Dimiliki"
   },
   {
@@ -76,7 +76,7 @@
     "judul": "Naruto",
     "kategori": "Komik",
     "penulis": "Masashi Kishimoto",
-    "tahun terbit": 1999,
+    "tahunTerbit": 1999,
     "status": "Dimiliki"
   }
 ]
