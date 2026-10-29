@@ -37,7 +37,6 @@ export default function Tambah() {
 
       <label htmlFor="judul">Judul</label>
       <input id="judul" name="judul" value={form.judul} onChange={ubah} />
-      {galat && <p role="alert">{galat}</p>}
 
       <label htmlFor="kategori">Kategori</label>
       <select id="kategori" name="kategori" value={form.kategori} onChange={ubah}>
@@ -48,11 +47,9 @@ export default function Tambah() {
 
       <label htmlFor="penulis">Penulis</label>
       <input id="penulis" name="penulis" value={form.penulis} onChange={ubah} />
-      {galat && <p role="alert">{galat}</p>}
 
       <label htmlFor="tahunTerbit">Tahun Terbit</label>
       <input id="tahunTerbit" name="tahunTerbit" value={form.tahunTerbit} onChange={ubah} />
-      {galat && <p role="alert">{galat}</p>}
 
       <label htmlFor="status">Status</label>
       <select id="status" name="status" value={form.status} onChange={ubah}>
@@ -61,6 +58,7 @@ export default function Tambah() {
         <option>Ingin Dibeli</option>
       </select>
 
+      {galat && <p role="alert">{galat}</p>}
       <button type="submit">Simpan</button>
     </form>
   )
