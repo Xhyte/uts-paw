@@ -19,12 +19,8 @@ export default function Tambah() {
       setGalat('Judul wajib diisi, minimal 2 karakter.')
       return
     }
-    if (form.penulis.trim().length < 2) {
-      setGalat('Masukkan nama penulis dengan benar')
-      return
-    }
-    if (form.tahunTerbit.trim().length != 4) {
-      setGalat('Masukkan tahun terbit dengan benar')
+    if (form.tahunTerbit.trim() !== '' && !/^\d{4}$/.test(form.tahunTerbit.trim())) {
+      setGalat('Tahun terbit harus terdiri dari 4 digit angka')
       return
     }
     tambah({ ...form, judul: form.judul.trim() })
