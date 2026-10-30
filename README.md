@@ -37,9 +37,9 @@
 
 ## Menjalankan secara lokal
 
-cd app
-npm install
-npm run dev
+cd app  
+npm install  
+npm run dev  
 
 ## Konsep React yang dipakai
 
