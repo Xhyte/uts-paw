@@ -4,18 +4,25 @@
 
 # Rak Buku Pribadi
 
-Nama: Muhammad Naufal Ramadhan
-NIM: 124140160
-Kelas: RA
-Tema: Rak Buku Pribadi
-Deployment: https://xhyte.github.io/uts-paw/
+**Nama**: Muhammad Naufal Ramadhan  
+**NIM**: 124140160  
+**Kelas**: RA  
+**Tema**: Rak Buku Pribadi  
+**Deployment**: https://xhyte.github.io/uts-paw/  
 
+### 1. Halaman beranda
 ![Halaman beranda](docs/beranda.png)
+### 2. Halaman Koleksi
 ![Halaman koleksi](docs/koleksi.png)
+### 3. Halaman Detail
 ![Halaman detail](docs/detail.png)
+### 4. Halaman Tambah
 ![Halaman tambah](docs/tambah.png)
+### 5. Halaman Statistik
 ![Halaman statistik](docs/statistik.png)
+### 6. Halaman Tentang
 ![Halaman tentang](docs/tentang.png)
+### 7. Halaman 404
 ![Halaman 404](docs/404.png)
 
 ## Fitur
