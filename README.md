@@ -65,17 +65,21 @@ Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Ke
 ```markdown
 # Nama Aplikasi
 
-Nama: ...
-NIM: ...
-Kelas: ...
-Tema: ...
-Deployment: https://USERNAME.github.io/uts-paw/
+Nama: Muhammad Naufal Ramadhan
+NIM: 124140160
+Kelas: RA
+Tema: Rak Buku Pribadi
+Deployment: https://xhyte.github.io/uts-paw/
 
-![Tangkapan layar beranda](docs/beranda.png)
+![Tangkapan layar beranda](app/src/docs/beranda.png)
 
 ## Fitur
 
-- ...
+- Beranda : Menampilkan ringkasan total buku dan kategori
+- Koleksi : Menampilkan seluruh daftar buku, menu pencarian dan pengelolaan koleksi
+- Tambah : Menampilkan formulir input untuk menambahkan buku
+- Detail : Menampilkan informasi sebuah buku dengan lengkap
+- Statistik : Menampilkan data jumlah koleksi buku per kategori beserta total keseluruhan
 
 ## Menjalankan secara lokal
 
@@ -85,5 +89,8 @@ npm run dev
 
 ## Konsep React yang dipakai
 
-- ...
+- Hooks
+- LocalStorage
+- React Router
+- 
 ```
