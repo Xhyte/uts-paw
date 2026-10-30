@@ -27,7 +27,7 @@ export default function Beranda() {
 
       </section>
       )}
-      <Link classname="tombol-koleksi" to="/koleksi">Lihat semua buku</Link>
+      <Link className="tombol-koleksi" to="/koleksi">Lihat semua buku</Link>
     </div>
   )
 }
